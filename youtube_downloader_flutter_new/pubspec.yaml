@@ -1,0 +1,15 @@
+name: youtube_downloader_flutter_new
+description: YouTube Downloader mit Flutter
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
